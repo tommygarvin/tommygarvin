@@ -1,4 +1,6 @@
-### Hi there 👋
+# Tommy Garvin
+
+![Tommy Garvin](./images/wave.jpg)
 
 <!--
 **tommygarvin/tommygarvin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
