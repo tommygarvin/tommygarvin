@@ -3,7 +3,7 @@
 ## About me
 
 - My family & I take full advantage of living in [The Sunshine City](https://www.stpete.org/visitors/about_st_pete.php).
-- I also enjoy bicycling, theme parks, metal detecting, maritime hobbies, live music, museums, and mediterranean food.
+- I enjoy bicycling, theme parks, metal detecting, maritime hobbies, live music, museums, and mediterranean food.
 - I have a passion for simplifying complex problems.
 
 ## Lifelong learner
