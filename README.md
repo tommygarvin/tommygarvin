@@ -29,7 +29,7 @@ I'm passionate about my field of work and love to "talk shop" with colleagues.
 
 ## Organizations
 
-I'm active in the following communities:
+Local communities I'm involved in:
 
 - [Captains For Clean Water](https://captainsforcleanwater.org/)
 - [Largo Central Railroad](https://www.lcrailroad.org/)
