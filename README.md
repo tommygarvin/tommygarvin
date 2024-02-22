@@ -23,9 +23,7 @@ I'm active with the following programming languages:
 
 ## Connect with me
 
-I'm passionate about my field of work and love to "talk shop" with colleagues.
-
-- [tommygarvin.github.io](https://tommygarvin.github.io/)
+I'm passionate about my field of work and love to "talk shop" with colleagues. Connect with me at [tommygarvin.github.io](https://tommygarvin.github.io/).
 
 ## Organizations
 
