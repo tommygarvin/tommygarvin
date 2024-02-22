@@ -16,10 +16,10 @@ I'm continually improving my skills in:
 
 I'm active with the following programming languages:
 
-- [C++](https://isocpp.org/)
-- [Go](https://go.dev/)
-- [Python](https://www.python.org/)
-- [Rust](https://www.rust-lang.org/)
+<a href="https://isocpp.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-plain.svg" alt="C++" height="40">
+<a href="https://go.dev/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Go" height="40">
+<a href="https://www.python.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" height="40">
+<a href="https://www.rust-lang.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" alt="Rust" height="40">
 
 ## Connect with me
 
