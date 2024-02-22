@@ -3,21 +3,23 @@
 ## About me
 
 - My family & I take full advantage of living in [The Sunshine City](https://www.stpete.org/visitors/about_st_pete.php).
-- I also enjoy bicycling, theme parks, maritime hobbies, live music, museums, and mediterranean food.
+- I also enjoy bicycling, theme parks, metal detecting, maritime hobbies, live music, museums, and mediterranean food.
 - I have a passion for simplifying complex problems.
 
 ## Lifelong learner
 
 I'm continually improving my skills in:
 
+- Finance
 - Piano
 - Spanish
-- Finance
 
 I'm active with the following programming languages:
 
-- [Go Programming Language](https://go.dev/)
-- [Rust Programming Language](https://www.rust-lang.org/)
+- [C++](https://isocpp.org/)
+- [Go](https://go.dev/)
+- [Python](https://www.python.org/)
+- [Rust](https://www.rust-lang.org/)
 
 ## Connect with me
 
