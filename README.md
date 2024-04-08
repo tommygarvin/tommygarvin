@@ -30,7 +30,6 @@ I'm passionate about my field of work and love to "talk shop" with colleagues. C
 I'm involved in the following local communities:
 
 - [Captains For Clean Water](https://captainsforcleanwater.org/)
-- [Largo Central Railroad](https://www.lcrailroad.org/)
 - [Tampa Devs](https://www.tampadevs.com/)
 - [WSMR Florida's Classical Music Station](https://wsmr.org/)
 
